@@ -14,7 +14,7 @@ description: This the research I (a turtle) have conducted.
 #url: "https://example.com"
 
 # baseurl should be an empty string
-baseurl: /turtle_research_site.io
+# baseurl: ""
 
 # --- Navigation bar options --- #
 
